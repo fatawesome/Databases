@@ -1,0 +1,9 @@
+﻿CREATE TABLE t_caterer (
+  id_caterer INT NOT NULL PRIMARY KEY,
+  NAME NVARCHAR2(150) NOT NULL ,
+  address NVARCHAR2(150) NOT NULL,
+  phone NVARCHAR2(150) NOT NULL,
+  fax NVARCHAR2(150) NOT NULL 
+)
+
+  

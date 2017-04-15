@@ -1,0 +1,5 @@
+﻿CREATE TABLE t_material (
+  id_material INT NOT NULL PRIMARY KEY,
+  name NVARCHAR2(150) NOT NULL,
+  id_messure INT NOT NULL REFERENCES T_MESSURE (ID_MESSURE)
+)

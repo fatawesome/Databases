@@ -1,0 +1,4 @@
+﻿CREATE TABLE t_store (
+  id_store INT NOT NULL PRIMARY KEY,
+  name NVARCHAR2(150) NOT NULL
+)
