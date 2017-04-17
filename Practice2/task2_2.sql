@@ -1,0 +1,47 @@
+﻿INSERT INTO T_EMPLOYER(ID_EMPLOYER,
+  SURNAME,
+  NAME,
+  FATHER_NAME)
+VALUES(SEQ_EMPLOYER.NEXTVAL,
+  'Иванов',
+  'Александр',
+  'Петрович');
+
+INSERT INTO T_EMPLOYER(ID_EMPLOYER,
+  SURNAME,
+  NAME,
+  FATHER_NAME)
+VALUES(SEQ_EMPLOYER.NEXTVAL,
+  'Красноборов',
+  'Сергей',
+  'Александрович');
+
+INSERT INTO T_EMPLOYER(ID_EMPLOYER,
+  SURNAME,
+  NAME,
+  FATHER_NAME)
+VALUES(SEQ_EMPLOYER.NEXTVAL,
+  'Кожевников',
+  'Алексей',
+  'Андреевич');
+
+INSERT INTO T_EMPLOYER(ID_EMPLOYER,
+  SURNAME,
+  NAME,
+  FATHER_NAME)
+VALUES(SEQ_EMPLOYER.NEXTVAL,
+  'Белоухова',
+  'Екатерина',
+  'Андреевна');
+
+INSERT INTO T_EMPLOYER(ID_EMPLOYER,
+  SURNAME,
+  NAME,
+  FATHER_NAME)
+VALUES(SEQ_EMPLOYER.NEXTVAL,
+  'Тимофеева',
+  'Полина',
+  'Сергеевна');
+
+
+
